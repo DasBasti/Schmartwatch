@@ -4,6 +4,7 @@
 
 - [Introduction](#introduction)
 - [Terms of Use](#terms-of-use)
+- [Hardware](#hardware)
 
 ## Introduction
 
@@ -13,3 +14,6 @@ This repository is the home of the DIY Smartwatch project [Schmart Watch](http:/
 
 Refer to "License.txt" for every sub project.
 
+## Hardware
+
+The hardware for this project could be found here [Schmartwatch Hardware](https://github.com/DasBasti/SchmartWatch_Hardware)
