@@ -1,0 +1,3 @@
+[submodule "SchmartWatch_Hardware"]
+	path = SchmartWatch_Hardware
+	url = git@github.com:DasBasti/SchmartWatch_Hardware
